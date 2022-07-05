@@ -16,7 +16,7 @@ h1 {
     color: orange;
 }
 
-section {
+.fl-con {
     display: flex;
     margin-bottom: 100px;
 }
@@ -49,4 +49,32 @@ section {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.Ex {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+.fl-ex {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 19px;
+    box-shadow: 10px 10px 30px gray;
+    border-left: 7px black;
+
+}
+
+#serious {
+    border-left: 6px solid rgb(7, 3, 238);
+}
+
+#To {
+    border-left: 7px solid tomato;
+}
+
+footer p {
+    text-align: center;
 }
