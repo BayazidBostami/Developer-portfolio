@@ -18,6 +18,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .hf {
@@ -42,4 +43,10 @@ section {
 .top {
     background-image: url(images/IMG_20220705_130059.jpg);
     background-repeat: no-repeat;
+}
+
+.Dream {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
