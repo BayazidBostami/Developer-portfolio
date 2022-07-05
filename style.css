@@ -1,0 +1,45 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+#b {
+    color: brown;
+    font-size: 40px;
+}
+
+.ba {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.hf {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.hf img {
+    width: 100%;
+}
+
+.link {
+    text-decoration: none;
+
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: wheat;
+    font-weight: 700;
+    background-image: linear-gradient(rgb(255, 230, 0), tomato);
+}
+
+.top {
+    background-image: url(images/IMG_20220705_130059.jpg);
+    background-repeat: no-repeat;
+}
